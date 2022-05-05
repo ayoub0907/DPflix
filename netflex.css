@@ -1,0 +1,27 @@
+body {
+    color:red;
+    margin : 0;
+    box-sizing : border-box;
+    background-color: #111;
+    }
+    
+    div {
+     width: 300;
+     Margin:auto;
+     Border:1px solide red;
+     height: 80px;
+     padding: 20px;
+     border: 8px solid red;
+     background: red;
+     transition:transform 450ms;
+     display: flex;
+     overflow-y: hidden;
+     overflow-x : scroll 
+     padinng: 20px;;
+     .row_poster
+    }
+    .row_poster:hover{    
+        transform: scale(1.08);
+        
+    width: 100% ;
+    } 
